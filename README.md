@@ -3,6 +3,7 @@
 ### Ohai
 
 * I'm an engineer working on the [🄱 🄸 🄳 🄸](https://www.bbc.co.uk/blogs/internet/tags/media-distribution) content delivery network for the [🄱 🄱 🄲](https://bbc.co.uk/), slinging trillions of bits across the internet every second.
+* I'm interested in hardware, HTTP, video encoding and optimising to oblivion.
 * I mostly write Python, but also write some C, Java, and Lua for my job.
 * I live in nginx/OpenResty configs.
 * I occasionally write stuff @ [kura.gg](https://kura.gg/)
