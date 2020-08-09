@@ -18,4 +18,4 @@
     * [Pelican GitHub Projects](https://kura.gg/pelican-githubprojects)
     * [Pelican FontAwesome](https://kura.gg/pelican-fontawesome)
 
-<img align="right" src="https://profile-counter.glitch.me/kura/count.svg" />
+<img align="left" src="https://profile-counter.glitch.me/kura/count.svg" />
