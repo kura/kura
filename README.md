@@ -2,8 +2,6 @@
 
 ### Ohai
 
-<img align="right" src="https://profile-counter.glitch.me/kura/count.svg" />
-
 * I'm an engineer working on the [🄱 🄸 🄳 🄸](https://www.bbc.co.uk/blogs/internet/tags/media-distribution) content delivery network for the [🄱 🄱 🄲](https://bbc.co.uk/), slinging trillions of bits across the internet.
 * I mostly write Python, but also write some C, Java and Lua for my job.
 * I live in nginx/OpenResty configs.
@@ -19,3 +17,5 @@
     * [Pelican Vimeo](https://kura.gg/pelican-vimeo)
     * [Pelican GitHub Projects](https://kura.gg/pelican-githubprojects)
     * [Pelican FontAwesome](https://kura.gg/pelican-fontawesome)
+
+<img align="right" src="https://profile-counter.glitch.me/kura/count.svg" />
