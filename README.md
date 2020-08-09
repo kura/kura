@@ -1,4 +1,6 @@
-### Oi oi
+<img align="right" src="https://github.com/kura/kura/raw/master/epic-sax-guy.gif" />
+
+### Ohai
 
 <img align="right" src="https://profile-counter.glitch.me/kura/count.svg" />
 
@@ -17,5 +19,3 @@
     * [Pelican Vimeo](https://kura.gg/pelican-vimeo)
     * [Pelican GitHub Projects](https://kura.gg/pelican-githubprojects)
     * [Pelican FontAwesome](https://kura.gg/pelican-fontawesome)
-
-<img align="right" src="https://github.com/kura/kura/raw/master/epic-sax-guy.gif" />
