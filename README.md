@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/kura/kura/raw/master/epic-sax-guy.gif" />
+<img align="right" src="https://github.com/kura/kura/raw/master/tayloreevee.png" />
 
 ### Ohai
 
