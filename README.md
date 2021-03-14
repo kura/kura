@@ -1,3 +1,6 @@
+![](https://github.com/kura/kura/raw/master/overview.svg)
+![](https://github.com/kura/kura/raw/master/languages.svg)
+
 <img align="right" src="https://github.com/kura/kura/raw/master/tayloreevee.png" />
 
 ### Ohai
@@ -18,8 +21,5 @@
     * [Pelican Vimeo](https://kura.gg/pelican-vimeo)
     * [Pelican GitHub Projects](https://kura.gg/pelican-githubprojects)
     * [Pelican FontAwesome](https://kura.gg/pelican-fontawesome)
-
-![](https://github.com/kura/kura/raw/master/overview.svg)
-![](https://github.com/kura/kura/raw/master/languages.svg)
 
 <img align="left" src="https://profile-counter.glitch.me/kura/count.svg" />
