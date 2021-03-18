@@ -1,7 +1,7 @@
-<img align="right" src="https://github.com/kura/kura/raw/master/tayloreevee.png" />
-
 ![](https://github.com/kura/kura/raw/master/overview.svg)
 ![](https://github.com/kura/kura/raw/master/languages.svg)
+
+<img align="right" src="https://github.com/kura/kura/raw/master/tayloreevee.png" />
 
 ### Ohai
 
