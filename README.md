@@ -5,7 +5,7 @@
 
 ### Ohai
 
-* I'm an bitslinger/engineer working on the [🄱 🄸 🄳 🄸](https://www.bbc.co.uk/blogs/internet/tags/media-distribution) content delivery network for the [🄱 🄱 🄲](https://bbc.co.uk/).
+* I'm an bitslinger/engineer working on the [BIDI, (BBC Internet Distribution Infrastructure)](https://www.bbc.co.uk/blogs/internet/entries/8c6c2414-df7a-4ad7-bd2e-dbe481da3633) content delivery network for the [BBC](https://bbc.co.uk/).
 * I'm interested in hardware, HTTP, SMTP, video encoding and optimising to oblivion.
 * I mostly write Python, but also write some C, Java, and Lua for my job.
 * I live in nginx/OpenResty configs.
