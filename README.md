@@ -9,15 +9,15 @@
 * I occasionally write stuff @ [kura.gg](https://kura.gg/)
 * I have written a bunch of themes and plugins for the [Pelican static site generator](https://github.com/getpelican/pelican):
   * Themes
-    * [Eevee](https://kura.gg/eevee)
-    * [Hauntr](https://kura.gg/hauntr)
-    * [Ghastly](https://kura.gg/ghastly)
+    * [Eevee](https://kura.gg/eevee) ([repo](https://github.com/kura/eevee))
+    * [Hauntr](https://kura.gg/hauntr) ([repo](https://github.com/kura/hauntr))
+    * [Ghastly](https://kura.gg/ghastly) ([repo](https://github.com/kura/ghastly))
   * Plugins
-    * [Lightbox](https://kura.gg/lightbox)
-    * [Pelican YouTube](https://kura.gg/pelican-youtube)
-    * [Pelican Vimeo](https://kura.gg/pelican-vimeo)
-    * [Pelican GitHub Projects](https://kura.gg/pelican-githubprojects)
-    * [Pelican FontAwesome](https://kura.gg/pelican-fontawesome)
+    * [Lightbox](https://kura.gg/lightbox) ([repo](https://github.com/kura/lightbox))
+    * [Pelican YouTube](https://kura.gg/pelican-youtube) ([repo](https://github.com/kura/pelican_youtube))
+    * [Pelican Vimeo](https://kura.gg/pelican-vimeo) ([repo](https://github.com/kura/pelican_vimeo))
+    * [Pelican GitHub Projects](https://kura.gg/pelican-githubprojects) ([repo](https://github.com/kura/pelican-githubprojects))
+    * [Pelican FontAwesome](https://kura.gg/pelican-fontawesome) ([repo](https://github.com/kura/pelican-fontawesome))
 
 ![](https://github.com/kura/kura/raw/master/overview.svg)
 ![](https://github.com/kura/kura/raw/master/languages.svg)
