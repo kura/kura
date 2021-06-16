@@ -22,3 +22,5 @@
     * [Pelican GitHub Projects](https://kura.gg/pelican-githubprojects)
     * [Pelican FontAwesome](https://kura.gg/pelican-fontawesome)
 
+
+© 2021 Taylor Swift + Eevee image copyright, Kura <kura [atpersand] kura [dot] gg>
