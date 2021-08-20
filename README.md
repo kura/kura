@@ -23,4 +23,4 @@
 ![](https://github.com/kura/kura/raw/master/languages.svg)
 
 
-© 2021 Taylor Swift + Eevee image copyright, Kura <kura [atpersand] kura [dot] gg>
+<div align="right"><em>© 2021 Taylor Swift + Eevee image copyright, Kura &lt;kura [atpersand] kura [dot] gg&gt;</em></div>
