@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/kura/kura/raw/master/tayloreevee.png" />
+<img align="right" alt="© 2021 Taylor Swift + Eevee image copyright, kura [atpersand] kura [dot] gg" title="© 2021 Taylor Swift + Eevee image copyright, kura [atpersand] kura [dot] gg" src="https://github.com/kura/kura/raw/main/tayloreevee.png" />
 
 ### Ohai
 
