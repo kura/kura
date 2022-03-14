@@ -3,6 +3,7 @@
 ### Ohai
 
 * I'm an bitslinger/engineer working on the [BIDI (BBC Internet Distribution Infrastructure)](https://www.bbc.co.uk/blogs/internet/entries/8c6c2414-df7a-4ad7-bd2e-dbe481da3633) content delivery network for the [BBC](https://bbc.co.uk/).
+  * If you're curious about BIDI, [my colleague has a great UKNOF talk about BIDI](https://www.youtube.com/watch?v=nzk-hFHfZ2I).
 * I'm interested in hardware, [HTTP](https://kura.gg/tag/nginx/), [SMTP](https://kura.gg/blackhole/), video encoding and optimising to oblivion.
 * I mostly write Python, but also write Lua, C, and Java for my job.
 * I live in nginx/OpenResty configs.
