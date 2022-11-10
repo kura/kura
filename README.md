@@ -20,6 +20,8 @@
     * [Pelican GitHub Projects](https://kura.gg/pelican-githubprojects) ([repo](https://github.com/kura/pelican-githubprojects))
     * [Pelican FontAwesome](https://kura.gg/pelican-fontawesome) ([repo](https://github.com/kura/pelican-fontawesome))
 
+<a rel="me" href="https://noc.social/@kura">Mastodon</a>
+
 ![](https://github.com/kura/kura/raw/main/overview.svg)
 ![](https://github.com/kura/kura/raw/main/languages.svg)
 
