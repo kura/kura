@@ -19,6 +19,9 @@
     * [Pelican Vimeo](https://kura.gg/pelican-vimeo) ([repo](https://github.com/kura/pelican_vimeo))
     * [Pelican GitHub Projects](https://kura.gg/pelican-githubprojects) ([repo](https://github.com/kura/pelican-githubprojects))
     * [Pelican FontAwesome](https://kura.gg/pelican-fontawesome) ([repo](https://github.com/kura/pelican-fontawesome))
+* I have also contributed a few features to the opensource, file-based markdown wiki [wikmd](https://github.com/Linbreux/wikmd) include;
+    * The caching layer
+    * Search powered by the pure-Python Whoosh search library
 
 ![](https://github.com/kura/kura/raw/main/overview.svg)
 ![](https://github.com/kura/kura/raw/main/languages.svg)
