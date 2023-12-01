@@ -22,6 +22,8 @@
 * I have also contributed a few features to the opensource, file-based markdown wiki [wikmd](https://github.com/Linbreux/wikmd) include;
     * The caching layer
     * Search powered by the pure-Python Whoosh search library
+* I have written a simple [Firefox Relay-like system using AWS SES, Lambda & DynamoDB](https://github.com/kura/private-relay).
+* I have also written some tools for reading data from [TP-Link Tapo P110 smart plugs for ingesting via Telegraf](https://github.com/kura/p110-exporter).
 
 ![](https://github.com/kura/kura/raw/main/overview.svg)
 ![](https://github.com/kura/kura/raw/main/languages.svg)
