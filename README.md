@@ -8,6 +8,7 @@
 * I mostly write Python, but also write Lua, C, and Java for my job.
 * I live in nginx/OpenResty configs.
 * I occasionally write stuff @ [kura.gg](https://kura.gg/)
+* I occasionally post stuff @ <a href="https://noc.social/@kura" rel="me">@kura@noc.social</a>
 * I have written a bunch of themes and plugins for the [Pelican static site generator](https://github.com/getpelican/pelican), including;
   * Themes
     * [Eevee](https://kura.gg/eevee) ([repo](https://github.com/kura/eevee))
